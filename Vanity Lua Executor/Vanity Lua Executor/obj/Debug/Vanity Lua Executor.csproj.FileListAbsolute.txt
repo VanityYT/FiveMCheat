@@ -1,0 +1,8 @@
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\bin\Debug\Vanity Lua Executor.exe.config
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\bin\Debug\Vanity Lua Executor.exe
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\bin\Debug\Vanity Lua Executor.pdb
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\obj\Debug\Vanity Lua Executor.csprojAssemblyReference.cache
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\obj\Debug\Vanity_Lua_Executor.Properties.Resources.resources
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\obj\Debug\Vanity Lua Executor.csproj.GenerateResource.cache
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\obj\Debug\Vanity Lua Executor.exe
+C:\Users\nicov\source\repos\Vanity Lua Executor\Vanity Lua Executor\obj\Debug\Vanity Lua Executor.pdb
